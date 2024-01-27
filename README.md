@@ -29,6 +29,7 @@ Part 2: Update the Database
 Part 3: Exploratory Analysis
 
 1. Which establishments have a hygiene score equal to 20?
+The number of documents is: 41
 
 2. Which establishments in London have a RatingValue greater than or equal to 4?
 
